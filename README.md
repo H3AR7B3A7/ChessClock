@@ -1,7 +1,7 @@
 # ChessClock
 A ChessClock for Android written in Kotlin.
 
-Authors: 	Mrjsaw &amp; H3AR7B3A7<br>
+Authors: 	[Mrjsaw](https://github.com/Mrjsaw) &amp; [H3AR7B3A7](https://github.com/H3AR7B3A7)<br>
 
 A ChessClock for competetive chess players with different color themes. Created to work on almost any Android phone or tablet.
 
