@@ -8,6 +8,6 @@ A ChessClock for competetive chess players with different color themes. Created 
 
 ## License & copyright
 
-© Jsaw<br>
+© 2020 Jsaw & H3AR7B3A7<br>
 
 Licensed under the [Apache license](LICENSE).
